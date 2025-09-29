@@ -1,0 +1,300 @@
+- id: team01
+  username: team01
+  password: pwd12345
+  type: team
+  team_id: team01
+  name: CS-01
+- id: team02
+  username: team02
+  password: pwd12346
+  type: team
+  team_id: team02
+  name: CS-02
+- id: team03
+  username: team03
+  password: pwd12347
+  type: team
+  team_id: team03
+  name: CS-03
+- id: team04
+  username: team04
+  password: pwd12348
+  type: team
+  team_id: team04
+  name: CS-04
+- id: team05
+  username: team05
+  password: pwd12349
+  type: team
+  team_id: team05
+  name: CS-05
+- id: team06
+  username: team06
+  password: pwd12350
+  type: team
+  team_id: team06
+  name: CS-06
+- id: team07
+  username: team07
+  password: pwd12351
+  type: team
+  team_id: team07
+  name: CS-07
+- id: team08
+  username: team08
+  password: pwd12352
+  type: team
+  team_id: team08
+  name: CS-08
+- id: team09
+  username: team09
+  password: pwd12353
+  type: team
+  team_id: team09
+  name: CS-09
+- id: team10
+  username: team10
+  password: pwd12354
+  type: team
+  team_id: team10
+  name: CS-10
+- id: team11
+  username: team11
+  password: pwd12355
+  type: team
+  team_id: team11
+  name: 680610700 Phichamon
+- id: team12
+  username: team12
+  password: pwd12356
+  type: team
+  team_id: team12
+  name: 680610712 Lalitnapas
+- id: team13
+  username: team13
+  password: pwd12357
+  type: team
+  team_id: team13
+  name: 680610663 Jirattikan
+- id: team14
+  username: team14
+  password: pwd12358
+  type: team
+  team_id: team14
+  name: 680610724 Supatchok
+- id: team15
+  username: team15
+  password: pwd12359
+  type: team
+  team_id: team15
+  name: 680610717 Wiriyaphat
+- id: team16
+  username: team16
+  password: pwd12360
+  type: team
+  team_id: team16
+  name: 680610705 Phuphing
+- id: team17
+  username: team17
+  password: pwd12361
+  type: team
+  team_id: team17
+  name: 680610676 Traipop
+- id: team18
+  username: team18
+  password: pwd12362
+  type: team
+  team_id: team18
+  name: 680610684 Tirapan
+- id: team19
+  username: team19
+  password: pwd12363
+  type: team
+  team_id: team19
+  name: 680610653 Kanticha
+- id: team20
+  username: team20
+  password: pwd12364
+  type: team
+  team_id: team20
+  name: 680610659 Jarkrasri
+- id: team21
+  username: team21
+  password: pwd12365
+  type: team
+  team_id: team21
+  name: 680610675 Nattapat
+- id: team22
+  username: team22
+  password: pwd12366
+  type: team
+  team_id: team22
+  name: 680610681 Thammarat
+- id: team23
+  username: team23
+  password: pwd12367
+  type: team
+  team_id: team23
+  name: 680610666 Chawis
+- id: team24
+  username: team24
+  password: pwd12368
+  type: team
+  team_id: team24
+  name: 680610692 Pann
+- id: team25
+  username: team25
+  password: pwd12369
+  type: team
+  team_id: team25
+  name: 680610706 Phumiphat
+- id: team26
+  username: team26
+  password: pwd12370
+  type: team
+  team_id: team26
+  name: 680610657 Khachenchai
+- id: team27
+  username: team27
+  password: pwd12371
+  type: team
+  team_id: team27
+  name: 680610695 Parawin
+- id: team28
+  username: team28
+  password: pwd12372
+  type: team
+  team_id: team28
+  name: 680610664 Chanidapha
+- id: team29
+  username: team29
+  password: pwd12373
+  type: team
+  team_id: team29
+  name: 670610695 Tinnaphat
+- id: team30
+  username: team30
+  password: pwd12374
+  type: team
+  team_id: team30
+  name: 670610682 Chaichan
+- id: team31
+  username: team31
+  password: pwd12375
+  type: team
+  team_id: team31
+  name: 670610673 Kanthida
+- id: team32
+  username: team32
+  password: pwd12376
+  type: team
+  team_id: team32
+  name: 670610672 Krittin
+- id: team33
+  username: team33
+  password: pwd12377
+  type: team
+  team_id: team33
+  name: 670610739 Sitiroj
+- id: team34
+  username: team34
+  password: pwd12378
+  type: team
+  team_id: team34
+  name: 670610709 Theerapat
+- id: team35
+  username: team35
+  password: pwd12379
+  type: team
+  team_id: team35
+  name: 670610718 Pongpol
+- id: team36
+  username: team36
+  password: pwd12380
+  type: team
+  team_id: team36
+  name: 670610710 Nontapat
+- id: team37
+  username: team37
+  password: pwd12381
+  type: team
+  team_id: team37
+  name: 670610674 Kittiphum
+- id: team38
+  username: team38
+  password: pwd12382
+  type: team
+  team_id: team38
+  name: 670610707 Teetad
+- id: team39
+  username: team39
+  password: pwd12383
+  type: team
+  team_id: team39
+  name: 670610691 Nuttawat
+- id: team40
+  username: team40
+  password: pwd12384
+  type: team
+  team_id: team40
+  name: 670610676 Komneth
+- id: team41
+  username: team41
+  password: pwd12385
+  type: team
+  team_id: team41
+  name: 670610683 Chaithat
+- id: team42
+  username: team42
+  password: pwd12386
+  type: team
+  team_id: team42
+  name: 660610802 jump
+- id: team43
+  username: team43
+  password: pwd12387
+  type: team
+  team_id: team43
+  name: user43
+- id: team44
+  username: team44
+  password: pwd12388
+  type: team
+  team_id: team44
+  name: user44
+- id: team45
+  username: team45
+  password: pwd12389
+  type: team
+  team_id: team45
+  name: user45
+- id: team46
+  username: team46
+  password: pwd12390
+  type: team
+  team_id: team46
+  name: user46
+- id: team47
+  username: team47
+  password: pwd12391
+  type: team
+  team_id: team47
+  name: user47
+- id: team48
+  username: team48
+  password: pwd12392
+  type: team
+  team_id: team48
+  name: user48
+- id: team49
+  username: team49
+  password: pwd12393
+  type: team
+  team_id: team49
+  name: user49
+- id: team50
+  username: team50
+  password: pwd12394
+  type: team
+  team_id: team50
+  name: user50

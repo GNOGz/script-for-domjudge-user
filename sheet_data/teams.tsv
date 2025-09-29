@@ -1,0 +1,51 @@
+id	label	group_ids	name	organization_id	location.description
+team01		solver01	CS-01	CS	
+team02		solver01	CS-02	CS	
+team03		solver01	CS-03	CS	
+team04		solver01	CS-04	CS	
+team05		solver01	CS-05	CS	
+team06		solver01	CS-06	CS	
+team07		solver01	CS-07	CS	
+team08		solver01	CS-08	CS	
+team09		solver01	CS-09	CS	
+team10		solver01	CS-10	CS	
+team11		solver01	680610700 Phichamon	CPE	
+team12		solver01	680610712 Lalitnapas	CPE	
+team13		solver01	680610663 Jirattikan	CPE	
+team14		solver01	680610724 Supatchok	CPE	
+team15		solver01	680610717 Wiriyaphat	CPE	
+team16		solver01	680610705 Phuphing	CPE	
+team17		solver01	680610676 Traipop	CPE	
+team18		solver01	680610684 Tirapan	CPE	
+team19		solver01	680610653 Kanticha	CPE	
+team20		solver01	680610659 Jarkrasri	CPE	
+team21		solver01	680610675 Nattapat	CPE	
+team22		solver01	680610681 Thammarat	CPE	
+team23		solver01	680610666 Chawis	CPE	
+team24		solver01	680610692 Pann	CPE	
+team25		solver01	680610706 Phumiphat	CPE	
+team26		solver01	680610657 Khachenchai	CPE	
+team27		solver01	680610695 Parawin	CPE	
+team28		solver01	680610664 Chanidapha	CPE	
+team29		solver01	670610695 Tinnaphat	CPE	
+team30		solver01	670610682 Chaichan	CPE	
+team31		solver01	670610673 Kanthida	CPE	
+team32		solver01	670610672 Krittin	CPE	
+team33		solver01	670610739 Sitiroj	CPE	
+team34		solver01	670610709 Theerapat	CPE	
+team35		solver01	670610718 Pongpol	CPE	
+team36		solver01	670610710 Nontapat	CPE	
+team37		solver01	670610674 Kittiphum	CPE	
+team38		solver01	670610707 Teetad	CPE	
+team39		solver01	670610691 Nuttawat	CPE	
+team40		solver01	670610676 Komneth	CPE	
+team41		solver01	670610683 Chaithat	CPE	
+team42		solver01	660610802 jump	CPE	
+team43		solver01	user43	CPE	
+team44		solver01	user44	CPE	
+team45		solver01	user45	CPE	
+team46		solver01	user46	CPE	
+team47		solver01	user47	CPE	
+team48		solver01	user48	CPE	
+team49		solver01	user49	CPE	
+team50		solver01	user50	CPE	

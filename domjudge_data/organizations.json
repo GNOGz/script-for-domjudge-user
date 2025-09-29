@@ -1,0 +1,14 @@
+[
+    {
+        "id": "CS",
+        "name": "CS",
+        "formal_name": "CMU Computer Science",
+        "country": "THA"
+    },
+    {
+        "id": "CPE",
+        "name": "CPE",
+        "formal_name": "CMU Computer Engineering",
+        "country": "THA"
+    }
+]

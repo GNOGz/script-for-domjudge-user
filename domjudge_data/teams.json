@@ -1,0 +1,452 @@
+[
+    {
+        "id": "team01",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-01",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team02",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-02",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team03",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-03",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team04",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-04",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team05",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-05",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team06",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-06",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team07",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-07",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team08",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-08",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team09",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-09",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team10",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "CS-10",
+        "organization_id": "CS",
+        "location.description": ""
+    },
+    {
+        "id": "team11",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610700 Phichamon",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team12",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610712 Lalitnapas",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team13",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610663 Jirattikan",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team14",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610724 Supatchok",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team15",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610717 Wiriyaphat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team16",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610705 Phuphing",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team17",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610676 Traipop",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team18",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610684 Tirapan",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team19",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610653 Kanticha",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team20",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610659 Jarkrasri",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team21",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610675 Nattapat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team22",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610681 Thammarat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team23",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610666 Chawis",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team24",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610692 Pann",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team25",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610706 Phumiphat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team26",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610657 Khachenchai",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team27",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610695 Parawin",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team28",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "680610664 Chanidapha",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team29",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610695 Tinnaphat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team30",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610682 Chaichan",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team31",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610673 Kanthida",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team32",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610672 Krittin",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team33",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610739 Sitiroj",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team34",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610709 Theerapat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team35",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610718 Pongpol",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team36",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610710 Nontapat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team37",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610674 Kittiphum",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team38",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610707 Teetad",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team39",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610691 Nuttawat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team40",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610676 Komneth",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team41",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "670610683 Chaithat",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team42",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "660610802 jump",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team43",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user43",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team44",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user44",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team45",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user45",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team46",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user46",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team47",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user47",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team48",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user48",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team49",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user49",
+        "organization_id": "CPE",
+        "location.description": ""
+    },
+    {
+        "id": "team50",
+        "group_ids": [
+            "solver01"
+        ],
+        "name": "user50",
+        "organization_id": "CPE",
+        "location.description": ""
+    }
+]
